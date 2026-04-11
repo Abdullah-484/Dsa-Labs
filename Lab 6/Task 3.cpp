@@ -11,12 +11,10 @@ class list
 {
 private:
     node* head;
-    node* tail;
 public:
     list()
     {
         head = NULL;
-        tail = NULL;
     }
     void insertAtPos(int value, int pos)
     {
