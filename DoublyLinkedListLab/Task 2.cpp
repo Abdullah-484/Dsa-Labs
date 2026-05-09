@@ -10,7 +10,6 @@ public:
 	node* next;
 	node* prev;
 };
-
 class list
 {
 private:
